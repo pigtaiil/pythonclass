@@ -1,1 +1,2 @@
-print("ooooooooooo")
+print("oooooo")
+print("bro")
